@@ -1,2 +1,3 @@
-
-reflex==0.8.1.dev1
+cryptography
+reflex
+reflex-qrcode
